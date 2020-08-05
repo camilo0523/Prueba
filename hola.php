@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola con Git"
+print "Hola con Git ($argv[1])\n";
 
 ?>
